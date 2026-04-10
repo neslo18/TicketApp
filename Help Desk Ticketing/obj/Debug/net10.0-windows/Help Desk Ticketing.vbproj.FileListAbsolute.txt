@@ -1,0 +1,47 @@
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\Help Desk Ticketing.exe
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\Help Desk Ticketing.deps.json
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\Help Desk Ticketing.runtimeconfig.json
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\Help Desk Ticketing.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\Help Desk Ticketing.pdb
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.vbproj.GenerateResource.cache
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.AssemblyInfoInputs.cache
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.AssemblyInfo.vb
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.vbproj.CoreCompileInputs.cache
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\refint\Help Desk Ticketing.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.pdb
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.genruntimeconfig.cache
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\ref\Help Desk Ticketing.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help_Desk_Ticketing.TicketForm.resources
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\System.Data.SQLite.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Desk Ticketing.vbproj.AssemblyReference.cache
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help Des.3DBCECDC.Up2Date
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-musl-riscv64\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-riscv64\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\bin\Debug\net10.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Neslo\Documents\Projects\PC\VB\Help Desk Ticketing\Help Desk Ticketing\obj\Debug\net10.0-windows\Help_Desk_Ticketing.LoginForm.resources
